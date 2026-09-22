@@ -1,3 +1,3 @@
 # utec-shell
 
-Proyecto de shell scripting.
+Proyecto de shell permisos
