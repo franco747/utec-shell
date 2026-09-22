@@ -1,6 +1,6 @@
 # utec-shell
 
-Proyecto de shell scripting (Ubuntu 22.04 LTS).
+Proyecto de shell scripting.
 
 ## permissions
 
